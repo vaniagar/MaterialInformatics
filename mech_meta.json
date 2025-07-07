@@ -1,0 +1,160 @@
+{
+    "TWIP_1": {
+        "Yield Strength": "400",
+        "Ultimate Tensile Strength": "1000",
+        "Hardness": "232",
+        "Elongation_Percent": "50",
+        "Test_Temperature": "25"
+    },
+    "TWIP_2": {
+        "Yield Strength": "877",
+        "Ultimate Tensile Strength": "1457",
+        "Hardness": "526",
+        "Elongation_Percent": "55",
+        "Test_Temperature": "25"
+    },
+    "TWIP_3": {
+        "Yield Strength": "500",
+        "Ultimate Tensile Strength": "1200",
+        "Hardness": "300",
+        "Elongation_Percent": "35",
+        "Test_Temperature": "25"
+    },
+    "TRIPTWIP_1": {
+        "Yield Strength": "400",
+        "Ultimate Tensile Strength": "905",
+        "Hardness": "442",
+        "Elongation_Percent": "55",
+        "Test_Temperature": "25"
+    },
+    "TRIPTWIP_1_200C": {
+        "Yield Strength": "380",
+        "Ultimate Tensile Strength": "690",
+        "Hardness": "465",
+        "Elongation_Percent": "36",
+        "Test_Temperature": "200"
+    },
+    "TRIPTWIP_1_300C": {
+        "Yield Strength": "370",
+        "Ultimate Tensile Strength": "670",
+        "Hardness": "484",
+        "Elongation_Percent": "36",
+        "Test_Temperature": "300"
+    },
+    "TRIPTWIP_1_400C": {
+        "Yield Strength": "350",
+        "Ultimate Tensile Strength": "650",
+        "Hardness": "526",
+        "Elongation_Percent": "36",
+        "Test_Temperature": "400"
+    },
+    "TRIPTWIP_1_600C": {
+        "Yield Strength": "200",
+        "Ultimate Tensile Strength": "325",
+        "Hardness": "442",
+        "Elongation_Percent": "64",
+        "Test_Temperature": "600"
+    },
+    "TWIP_4": {
+        "Yield Strength": "380",
+        "Ultimate Tensile Strength": "1200",
+        "Hardness": "300",
+        "Elongation_Percent": "90",
+        "Test_Temperature": "25"
+    },
+    "TWIP_5": {
+        "Yield Strength": "350",
+        "Ultimate Tensile Strength": "1000",
+        "Hardness": "232",
+        "Elongation_Percent": "60",
+        "Test_Temperature": "25"
+    },
+    "TWIP_6": {
+        "Yield Strength": "400",
+        "Ultimate Tensile Strength": "1050",
+        "Hardness": "526",
+        "Elongation_Percent": "48",
+        "Test_Temperature": "25"
+    },
+    "TWIP_7": {
+        "Yield Strength": "450",
+        "Ultimate Tensile Strength": "1100",
+        "Hardness": "484",
+        "Elongation_Percent": "45",
+        "Test_Temperature": "25"
+    },
+    "TWIP_8": {
+        "Yield Strength": "500",
+        "Ultimate Tensile Strength": "1150",
+        "Hardness": "526",
+        "Elongation_Percent": "42",
+        "Test_Temperature": "25"
+    },
+    "metadata": {
+        "TWIP_1": {
+            "Source Citation": "TWIP Steels: Mechanical and Metallurgical Properties - A Review (JMEST)",
+            "Processing History": "Hot-rolled at 1100\u00b0C",
+            "Test Conditions": "ASTM E8 tensile test, 25\u00b0C"
+        },
+        "TWIP_2": {
+            "Source Citation": "Microstructure and Mechanical Properties of Fe-Mn-Al-C TWIP Steel (Materials)",
+            "Processing History": "Solution-treated at 900\u00b0C for 1h",
+            "Test Conditions": "Strain rate: 0.001 s\u207b\u00b9, 25\u00b0C"
+        },
+        "TWIP_3": {
+            "Source Citation": "Effect of Silicon on TWIP Steel Properties (JMEST)",
+            "Processing History": "Hot-rolled with 1.5 wt% Si addition",
+            "Test Conditions": "ISO 6892-1 tensile standard"
+        },
+        "TRIPTWIP_1": {
+            "Source Citation": "Deformation Mechanisms in Cold-Rolled TRIP/TWIP Steel (Metals)",
+            "Processing History": "80% cold rolling reduction",
+            "Test Conditions": "Temperature-dependent tensile tests"
+        },
+        "TRIPTWIP_1_200C": {
+            "Source Citation": "Thermal Stability of TRIP/TWIP Steel (Metals)",
+            "Processing History": "Cold-rolled + annealing at 800\u00b0C",
+            "Test Conditions": "200\u00b0C tensile test, argon atmosphere"
+        },
+        "TRIPTWIP_1_300C": {
+            "Source Citation": "High-Temperature Behavior of TRIP/TWIP Steels (Metals)",
+            "Processing History": "Cold-rolled + recrystallization",
+            "Test Conditions": "300\u00b0C testing, 0.001 s\u207b\u00b9 strain rate"
+        },
+        "TRIPTWIP_1_400C": {
+            "Source Citation": "Phase Transformations in TRIP/TWIP Steels (Metals)",
+            "Processing History": "Cold-rolled + aging treatment",
+            "Test Conditions": "400\u00b0C isothermal testing"
+        },
+        "TRIPTWIP_1_600C": {
+            "Source Citation": "High-Temperature Ductility of TRIP/TWIP Steels (Metals)",
+            "Processing History": "Cold-rolled + solution treatment",
+            "Test Conditions": "600\u00b0C tensile test"
+        },
+        "TWIP_4": {
+            "Source Citation": "Automotive-Grade TWIP Steels (ASM Handbook Vol 1)",
+            "Processing History": "Hot-dip galvanized",
+            "Test Conditions": "Room temperature testing"
+        },
+        "TWIP_5": {
+            "Source Citation": "Strain Rate Sensitivity in TWIP Steels (Materials Science & Engineering A)",
+            "Processing History": "High-pressure torsion processed",
+            "Test Conditions": "Strain rates 1-1000 s\u207b\u00b9"
+        },
+        "TWIP_6": {
+            "Source Citation": "Dynamic Strain Aging in TWIP Steels (Acta Materialia)",
+            "Processing History": "Warm-rolled at 400\u00b0C",
+            "Test Conditions": "High-rate tensile testing"
+        },
+        "TWIP_7": {
+            "Source Citation": "TWIP Steel Microalloying Effects (Journal of Alloys and Compounds)",
+            "Processing History": "Nb-microalloyed, annealed",
+            "Test Conditions": "Electron microscopy + tensile tests"
+        },
+        "TWIP_8": {
+            "Source Citation": "Corrosion-Resistant TWIP Steels (Corrosion Science)",
+            "Processing History": "Al-Si coated",
+            "Test Conditions": "Salt spray tested per ASTM B117"
+        }
+    }
+}

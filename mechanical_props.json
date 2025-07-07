@@ -1,0 +1,93 @@
+{
+    "TWIP_1": {
+        "Yield Strength": "400",
+        "Ultimate Tensile Strength": "1000",
+        "Hardness": "232",
+        "Elongation_Percent": "50",
+        "Test_Temperature": "25"
+    },
+    "TWIP_2": {
+        "Yield Strength": "877",
+        "Ultimate Tensile Strength": "1457",
+        "Hardness": "526",
+        "Elongation_Percent": "55",
+        "Test_Temperature": "25"
+    },
+    "TWIP_3": {
+        "Yield Strength": "500",
+        "Ultimate Tensile Strength": "1200",
+        "Hardness": "300",
+        "Elongation_Percent": "35",
+        "Test_Temperature": "25"
+    },
+    "TRIPTWIP_1": {
+        "Yield Strength": "400",
+        "Ultimate Tensile Strength": "905",
+        "Hardness": "442",
+        "Elongation_Percent": "55",
+        "Test_Temperature": "25"
+    },
+    "TRIPTWIP_1_200C": {
+        "Yield Strength": "380",
+        "Ultimate Tensile Strength": "690",
+        "Hardness": "465",
+        "Elongation_Percent": "36",
+        "Test_Temperature": "200"
+    },
+    "TRIPTWIP_1_300C": {
+        "Yield Strength": "370",
+        "Ultimate Tensile Strength": "670",
+        "Hardness": "484",
+        "Elongation_Percent": "36",
+        "Test_Temperature": "300"
+    },
+    "TRIPTWIP_1_400C": {
+        "Yield Strength": "350",
+        "Ultimate Tensile Strength": "650",
+        "Hardness": "526",
+        "Elongation_Percent": "36",
+        "Test_Temperature": "400"
+    },
+    "TRIPTWIP_1_600C": {
+        "Yield Strength": "200",
+        "Ultimate Tensile Strength": "325",
+        "Hardness": "442",
+        "Elongation_Percent": "64",
+        "Test_Temperature": "600"
+    },
+    "TWIP_4": {
+        "Yield Strength": "380",
+        "Ultimate Tensile Strength": "1200",
+        "Hardness": "300",
+        "Elongation_Percent": "90",
+        "Test_Temperature": "25"
+    },
+    "TWIP_5": {
+        "Yield Strength": "350",
+        "Ultimate Tensile Strength": "1000",
+        "Hardness": "232",
+        "Elongation_Percent": "60",
+        "Test_Temperature": "25"
+    },
+    "TWIP_6": {
+        "Yield Strength": "400",
+        "Ultimate Tensile Strength": "1050",
+        "Hardness": "526",
+        "Elongation_Percent": "48",
+        "Test_Temperature": "25"
+    },
+    "TWIP_7": {
+        "Yield Strength": "450",
+        "Ultimate Tensile Strength": "1100",
+        "Hardness": "484",
+        "Elongation_Percent": "45",
+        "Test_Temperature": "25"
+    },
+    "TWIP_8": {
+        "Yield Strength": "500",
+        "Ultimate Tensile Strength": "1150",
+        "Hardness": "526",
+        "Elongation_Percent": "42",
+        "Test_Temperature": "25"
+    }
+}
